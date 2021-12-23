@@ -1,8 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Tue Nov 17 19:50:39 2020
 
-@author: ctham
 """
 
 import re
