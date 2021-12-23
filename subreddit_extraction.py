@@ -1,8 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Spyder Editor
 
-This is a temporary script file.
 """
 f = open("location", "w", encoding='utf-8') #location of combined file (user, date, text)
 f2 = open("location", "w", encoding='utf-8') #location of user list
