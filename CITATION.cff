@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+title: subreddit-analysis
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Clayton
+    family-names: Hamre
+    email: cthamre@gmail.com
+repository-code: 'https://github.com/cthamre/subreddit-analysis'
